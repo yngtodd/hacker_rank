@@ -1,4 +1,4 @@
 <p align="center">
-    <img width="200" src="https://github.com/yngtodd/tanuki/blob/master/img/tanuki1.png">
-        <figcaption>- <a href="https://twitter.com/atamotonu?lang=en">@atamotonu </a> </figcaption>
+    <img width="200" src="https://github.com/yngtodd/hacker_rank/blob/master/img/hacker_rank.svg">
+        <figcaption>- <a href="https://hackerrank.com">HackerRank </a> </figcaption>
 </p>
