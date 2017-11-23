@@ -35,7 +35,8 @@ int main() {
     }
     
     while (i > 0) {
-    	// Not sure how I feel about the indexing here.
+        // index minus one since we increment before 
+	// checking the condition in first while loop
         cout << arr[i-1] << " ";
         i--;
     }
